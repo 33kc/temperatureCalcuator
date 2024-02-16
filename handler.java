@@ -9,7 +9,7 @@ public class TemperatureConverter {
         System.out.println("2. Celsius");
         System.out.println("3. Fahrenheit");
 
-        int choice = scanner.nextInt();
+        int choice = scanner.nextInt(); 
 
         double inputTemperature;
         String inputUnit;
