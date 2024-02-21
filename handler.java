@@ -28,7 +28,7 @@ public class TemperatureConverter {
                 System.out.println("Invalid choice. Exiting program.");
                 return;
         }
-
+// why do i feel like there is a big bug here but i cant find it i need physical help 
         System.out.print("Enter temperature in " + inputUnit + ": ");
         inputTemperature = scanner.nextDouble();
 
